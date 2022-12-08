@@ -3,9 +3,6 @@ import numpy
 
 def solution():
 
-    totalSpace = 70000000
-    neededSpace = 30000000
-
     inputFile = open('input','r')
     # inputFile = open('inputTest','r')
 
