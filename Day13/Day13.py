@@ -1,14 +1,6 @@
 from time import sleep, perf_counter
 import numpy
 
-worryLevels = []
-operation = []
-operationValue = []
-test = []
-throwToIfTrue = []
-throwToIfFalse = []
-inspections = []
-
 def solution():
 
     inputFile = open('input','r')
